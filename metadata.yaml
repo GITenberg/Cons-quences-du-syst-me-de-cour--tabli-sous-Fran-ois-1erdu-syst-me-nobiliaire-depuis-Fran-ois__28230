@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '33216'
     url: http://www.gutenberg.org/2009/agents/33216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28230#Cons-quences-du-syst-me-de-cour--tabli-sous-Fran-ois-1erdu-syst-me-nobiliaire-depuis-Fran-ois_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2009-03-01'
 gutenberg_type: Text
